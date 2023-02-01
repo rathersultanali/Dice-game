@@ -1,0 +1,62 @@
+body
+{
+    background-color: #343333;
+}
+
+.game-heading
+{
+    padding-top: 2rem;
+    font-size: 7rem;
+    font-family: 'Praise', cursive;
+    color: #30E3DF;
+    text-align: center;
+}
+
+.winner-heading
+{
+    padding-top: 2rem;
+    font-size: 7rem;
+    font-family: 'Praise', cursive;
+    color: #23e92d;
+    text-align: center;
+}
+.player-title
+{
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Praise', cursive;
+    width: 50%;
+    margin: auto;
+    color: #30E3DF;
+}
+#dice-image-p1
+{
+    width: 80%;
+}
+
+#dice-image-p2
+{
+    width: 80%;
+}
+
+.btn {
+    border-radius: 22px;
+    font-family: 'Praise', cursive;
+    color: #30E3DF;
+    font-size: 2.2rem;
+    background: #343333;
+    padding: 10px 20px 10px 20px;
+    border: solid #30E3DF 5px;
+    text-decoration: none;
+  }
+  .btn:hover
+  {
+    background: #343333;
+    border: solid #23e92d 5px;
+    color: #23e92d;
+  }
+  .roll-btn
+  {
+    text-align: center;
+    margin-top: 1.5rem;
+  }
